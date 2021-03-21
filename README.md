@@ -1,8 +1,14 @@
-# user-contorl-dashboard
+# Customer-Control-Dashboard
 
 ## Project setup
+
+### For install node_modules
 ```
 npm install
+```
+### For starting the fake-backend server with json-server
+```
+npm run backend
 ```
 
 ### Compiles and hot-reloads for development

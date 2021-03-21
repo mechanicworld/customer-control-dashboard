@@ -1,0 +1,41 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "username": "testUser",
+      "password": "1234"
+    }
+  ],
+  "customers": [
+    {
+      "name": "John Jr. Stocktana",
+      "email": "hizlijohn71@ucd.com",
+      "phone": "1234564654",
+      "id": 7
+    },
+    {
+      "name": "Cedi Osman",
+      "email": "cediosman@ucd.com",
+      "phone": "456 465 45 64",
+      "id": 12
+    },
+    {
+      "name": "Micheal Jordan",
+      "email": "mj23@ucd.com",
+      "phone": "123 132 12 12",
+      "id": 13
+    },
+    {
+      "name": "Micheal Jordan jr",
+      "email": "1mj23@ucd.com",
+      "phone": "1324657798",
+      "id": 14
+    },
+    {
+      "name": "LeBron James",
+      "email": "lebron23@ccd.com",
+      "phone": "4564564564",
+      "id": 15
+    }
+  ]
+}
