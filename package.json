@@ -1,5 +1,5 @@
 {
-  "name": "user-contorl-dashboard",
+  "name": "customer-control-dashboard",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "backend": "json-server --watch db.json --port 5000"
-    
   },
   "dependencies": {
     "core-js": "^3.6.5",
